@@ -1,0 +1,32 @@
+School number: 190706027
+School name: Erman Yalcin
+Phone number: 05309460376
+Email: erman1103@icloud.com
+Home address: blablalba
+City of the student: bursa
+Company name: sfsafd
+Company address: dgnvlffkg
+Location of the company: dgljdfgjdfg
+Phone number of the company: dfsdfsdfdsf
+Email address of the company: erera@sdsfsdf
+Beginning date of the internship: 10.20.2001
+Ending date of the internship: 19.30.230
+Total workdays in the company: 200
+
+
+School number: 1
+School name: 1 1
+Phone number: 1
+Email: 1
+Home address: 1
+City of the student: 1
+Company name: 1
+Company address: 1
+Location of the company: 1
+Phone number of the company: 1
+Email address of the company: 1
+Beginning date of the internship: 1
+Ending date of the internship: 1
+Total workdays in the company: 1
+
+
